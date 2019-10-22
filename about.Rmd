@@ -19,5 +19,3 @@ I often use [google](google.com) to do **data science**.
 here's my cat:
 
 <img src="images/image.jpg" style="width:75%">
-
-
